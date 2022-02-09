@@ -8,7 +8,7 @@ for i in list_int:
     list_int2.append(int(i))
 
 for beggar in range(beggars):
-
+    pass
 
 
 
